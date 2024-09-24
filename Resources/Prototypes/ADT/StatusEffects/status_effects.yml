@@ -1,0 +1,10 @@
+- type: statusEffect
+  id: ADTHallucinations
+
+- type: statusEffect
+  id: ADTStarvation
+
+# Simple Station
+
+- type: statusEffect
+  id: SeeingStatic

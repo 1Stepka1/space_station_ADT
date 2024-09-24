@@ -3,6 +3,7 @@
   id: ADTBZCanister
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     layers:
     - state: purple
   - type: GasCanister
@@ -100,6 +101,7 @@
   id: ADTHydrogenCanister
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     layers:
     - state: h2
   - type: GasCanister
@@ -150,6 +152,7 @@
   id: ADTNitriumCanister
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     layers:
     - state: brown
   - type: GasCanister
@@ -201,6 +204,7 @@
   id: ADTHealiumCanister
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     layers:
     - state: healium
   - type: GasCanister
@@ -259,6 +263,7 @@
   id: ADTHyperNobliumCanister
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     layers:
     - state: nob
   - type: GasCanister
@@ -317,6 +322,7 @@
   id: ADTProtoNitrateCanister
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     layers:
     - state: proto_nitrate
   - type: GasCanister
@@ -375,6 +381,7 @@
   id: ADTZaukerCanister
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     layers:
     - state: zauker
   - type: GasCanister
@@ -433,6 +440,7 @@
   id: ADTHalonCanister
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     layers:
     - state: halon
   - type: GasCanister
@@ -491,6 +499,7 @@
   id: ADTHeliumCanister
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     layers:
     - state: helium
   - type: GasCanister
@@ -549,6 +558,7 @@
   id: ADTAntiNobliumCanister
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     layers:
     - state: antinob
   - type: GasCanister
@@ -607,15 +617,16 @@
 - type: entity
   parent: GasCanisterBrokenBase
   id: ADTBZCanisterBroken
-  noSpawn: true
+  categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     state: purple-1
 
 - type: entity
   parent: GasCanisterBrokenBase
   id: ADTPluoxiumCanisterBroken
-  noSpawn: true
+  categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
     state: darkblue-1
@@ -623,71 +634,80 @@
 - type: entity
   parent: GasCanisterBrokenBase
   id: ADTHydrogenCanisterBroken
-  noSpawn: true
+  categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     state: h2-1
 
 - type: entity
   parent: GasCanisterBrokenBase
   id: ADTNitriumCanisterBroken
-  noSpawn: true
+  categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     state: brown-1
 
 - type: entity
   parent: GasCanisterBrokenBase
   id: ADTHealiumCanisterBroken
-  noSpawn: true
+  categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     state: healium-1
 
 - type: entity
   parent: GasCanisterBrokenBase
   id: ADTHyperNobliumCanisterBroken
-  noSpawn: true
+  categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     state: nob-1
 
 - type: entity
   parent: GasCanisterBrokenBase
   id: ADTProtoNitrateCanisterBroken
-  noSpawn: true
+  categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     state: proto_nitrate-1
 
 - type: entity
   parent: GasCanisterBrokenBase
   id: ADTZaukerCanisterBroken
-  noSpawn: true
+  categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     state: zauker-1
 
 - type: entity
   parent: GasCanisterBrokenBase
   id: ADTHalonCanisterBroken
-  noSpawn: true
+  categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     state: halon-1
 
 - type: entity
   parent: GasCanisterBrokenBase
   id: ADTHeliumCanisterBroken
-  noSpawn: true
+  categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     state: helium-1
 
 - type: entity
   parent: GasCanisterBrokenBase
   id: ADTAntiNobliumCanisterBroken
-  noSpawn: true
+  categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
+    sprite: ADT/Structures/Storage/canister.rsi
     state: antinob-1

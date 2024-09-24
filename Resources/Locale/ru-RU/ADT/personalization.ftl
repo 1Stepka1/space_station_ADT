@@ -30,7 +30,7 @@ ent-ADTClothingShoesKivchikBoots = ботинки возмездия
 ent-ADTClothingBackpackKivchikSatchel = сумка возмездия
     .desc = Красивая чёрная сумка с золотими застёжками и красными линиями.
     .suffix = { "Именное, Kivchik" }
-    
+
 ent-ADTPlushieEvgeniy = Евгений
     .desc = Мягкая игрушка Женьки Металлиста, созданная по его образу и подобию. Его глазки смотрят так, что прям и хочется его взять на ручки и затискать. На его халатике есть маленькие кармашки, которые могут использоваться как держатель монет или флешек.
     .suffix = { "" }
@@ -283,3 +283,66 @@ ent-ADTClothingOuterBolperCoat = плащ Волпера
     .desc = +5 процентов к крутости.
     .suffix = Именное, Bolper.
 
+ent-ADTBolperKatana = Катана Волпера
+    .desc = +5 процентов к урону.
+    .suffix = Именное, Bolper.
+
+ent-ADTClothingShoesBolperBoots = Кроссовки Волпера
+    .desc = +5 процентов к скорости.
+    .suffix = Именное, Bolper.
+
+ent-ADTClothingNeckBolperCloak = Плащ Волпера
+    .desc = +5 процентов к крутости.
+    .suffix = Именное, Bolper.
+
+ent-ADTClothingUniformBolperJumpsuit = Костюм Волпера
+    .desc = +5 процентов к свежести.
+    .suffix = Именное, Bolper.
+
+ent-ADTClothingBackBolperSheath = Ножны Волпера
+    .desc = Я готов к бойне.
+    .suffix = Именное, Bolper.
+
+ent-ADTClothingHandsBolperGloves = Перчатки Волпера
+    .desc = Я защищу твои руки.
+    .suffix = Именное, Bolper.
+
+ent-ADTClothingUniformPangaariAmericanSleeveless = Американка без рукавов
+    .desc = Простой образ, состоящий из штанов и чёрной водолазки без рукавов.
+    .suffix = Именное, Pangaari.
+
+ent-ADTClothingNeckRipZoroMantle = Таинственная наплечная мантия
+    .desc = Мантия, хранящая тайну...
+    .suffix = Именное, Rip_Zoro
+
+ent-ADTClothingHandsPushnoYGloves = Беспалые кожаные перчатки
+    .desc = Перчатки без пальцев из прочной натуральной кожи, отлично сочетается с белой рубашкой и аквамариновой жилеткой.
+    .suffix = Именное, PushnoY.
+
+ent-ADTClothingUniformPushnoYJumpsuit = Аккуратный костюм Курото
+    .desc = Приятно выглаженная рубашка с аквамариновой жилеткой и серыми брюками, что может быть лучше?
+    .suffix = Именное, PushnoY.
+
+ent-ADTClothingOuterCoatMaki = Пальто Хонкоматери
+    .desc = Пальто дарованное самой Хонкоматерью одному из её лучших клоунов несущих веру Хонка. Оно такое же вычурное, как и сами клоуны, а жёлтые элементы выполнены из чистого бананиума. От пальто исходит лёгкий запах кремового пирога.
+    .suffix = Именное, Maki_gg.
+
+ent-ADTZoroKatana = легендарная катана
+    .desc = Катана легендарного фехтовальщика...
+    .suffix = Именное, Rip_Zoro.
+
+ent-ADTClothingBeltZoroSheath = ножны легендарной катаны
+    .desc = Ножны для катаны величайшего фехтовальщика...
+    .suffix = Именное, Rip_Zoro.
+
+ent-ADTUrogCrowbarGold = Золотой лом Урог-Джаха
+    .desc = На ломе гравировка "Пиши заявку, сука!!!"
+    .suffix = { "Именное, Vladylya" }
+
+ent-ADTOwlScimitar = Совиный клинок
+    .desc = Увесистый клинок, схожий со скимитарами давно ушедшей эпохи, с выжженой на рукояти совой. Побит временем, но всё так же рвётся в бой.
+    .suffix = Именное, Filo
+
+ent-ADTClothingUniformZoroJumpsuit = легендарный деловой костюм
+    .desc = Легендарный, поношенный костюм. Весь белый с позолотой. От него пахнет ванилью...
+    .suffix = Именное, Rip_Zoro.

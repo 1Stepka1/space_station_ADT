@@ -13,3 +13,44 @@ ent-ADTClothingHeadHatBeretBrigmedic = берет бригмедика
 
 ent-ADTClothingHeadHatBeretBlackCivilian = чёрный берет
     .desc = Этот тёмный берет из мягкой ткани прилегает к голове как уютный оберег от холода. Его простой и классический дизайн делает его универсальным аксессуаром для любого стиля одежды.
+
+ent-ADTClothingHeadCapIlisium = фуражка
+    .suffix = Иллизиум
+    .desc = Тёмная фуражка офицера Иллизиума.
+
+ent-ADTClothingHeadHatsInvestigatorCap = фуражка следователя Службы Безопасности
+    .desc = Слава NanoTrasen!
+    .suffix = { "" }
+
+ent-ADTClothingHeadHatsBeretArmy = армейский берет
+    .desc = Потрёпанный на службе военный берет. Имеет золотую нашивку сбоку.
+    .suffix = { "Новая Мекка" }
+
+ent-ADTClothingHeadHatsBeretSupply = берет отдела снабжения
+    .desc = Берет медного цвета с вышитой эмблемой отдела снабжения.
+ent-ADTClothingHeadHatsBeretAtmos = берет атмосферного техника
+    .desc = Голубой берет с вышитой эмблемой инжерного отдела. Пахнет фрезоном.
+ent-ADTClothingHeadHatsBeretHOP = берет главы персонала
+    .desc = Синий берет с вышитой командирской эмблемой. Холодная рассудительность и твердая рука - вот что главное.
+
+ent-ADTClothingHeadHatsBavarianHat = баварская шляпа
+    .desc = Традиционная баварская шляпа.
+    .suffix = { "Октоберфест" }
+ent-ADTClothingHeadHatsBavarianHatBlueBorder = баварская шляпа с голубой каймой
+    .desc = Традиционная баварская шляпа с голубой каймой.
+    .suffix = { "Октоберфест" }
+ent-ADTClothingHeadHatsBavarianHatRedBorder = баварская шляпа с красной каймой
+    .desc = Традиционная баварская шляпа с красной каймой.
+    .suffix = { "Октоберфест" }
+ent-ADTClothingHeadHatsBavarianHatGreenBorder = баварская шляпа с зеленой каймой
+    .desc = Традиционная баварская шляпа с зеленой каймой.
+    .suffix = { "Октоберфест" }
+ent-ADTClothingHeadHatsBavarianHatBlue = синяя егерская шляпа
+    .desc = Егерская шляпа синего цвета, с пером. 
+    .suffix = { "Октоберфест" }
+ent-ADTClothingHeadHatsBavarianHatGreen = зеленая егерская шляпа
+    .desc = Егерская шляпа зеленого цвета, с пером. 
+    .suffix = { "Октоберфест" }
+ent-ADTClothingHeadHatsBavarianHatRed = красная егерская шляпа
+    .desc = Егерская шляпа красного цвета, с пером. 
+    .suffix = { "Октоберфест" }

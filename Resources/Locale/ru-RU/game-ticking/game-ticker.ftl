@@ -29,7 +29,7 @@ game-ticker-no-map-selected = [color=red]Карта ещё не выбрана![
 game-ticker-player-no-jobs-available-when-joining = При попытке присоединиться к игре ни одной роли не было доступно.
 # Displayed in chat to admins when a player joins
 player-join-message = Игрок { $name } зашёл!
-player-first-join-message = { $name } ВНИМАНИЕ НОВИЧОК зашел на сервер!!! Администрации быть бдительней :О
+#player-first-join-message = { $name } ВНИМАНИЕ НОВИЧОК зашел на сервер!!! Администрации быть бдительней :О
 # Displayed in chat to admins when a player leaves
 player-leave-message = Игрок { $name } вышел!
 latejoin-arrival-announcement =
@@ -37,8 +37,9 @@ latejoin-arrival-announcement =
         [male] прибыл
         [female] прибыла
         [epicene] прибыли
-       *[neuter] прибыл
+       *[neuter] прибыло
     } на станцию!
+latejoin-arrival-announcement-special = { $job } { $character } на палубе!
 latejoin-arrival-sender = Станции
 latejoin-arrivals-direction = Вскоре прибудет шаттл, который доставит вас на станцию.
 latejoin-arrivals-direction-time = Шаттл, который доставит вас на станцию, прибудет через { $time }.
@@ -46,3 +47,6 @@ latejoin-arrivals-dumped-from-shuttle = Таинственная сила не �
 latejoin-arrivals-teleport-to-spawn = Таинственная сила телепортирует вас с шаттла прибытия. Удачной смены!
 preset-not-enough-ready-players = Не удалось запустить пресет { $presetName }. Требуется { $minimumPlayers } игроков, но готовы только { $readyPlayersCount }.
 preset-no-one-ready = Не удалось запустить режим { $presetName }. Нет готовых игроков.
+game-run-level-PreRoundLobby = Предраундовое лобби
+game-run-level-InRound = В раунде
+game-run-level-PostRound = После раунда
