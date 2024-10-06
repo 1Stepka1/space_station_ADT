@@ -111,3 +111,15 @@
 
 - type: Tag
   id: ADTCardPlay
+
+- type: Tag
+  id: ADTSyrelBattleAxe
+
+- type: Tag
+  id: VehicleKey
+
+- type: Tag
+  id: JanicartKeys
+
+- type: Tag
+  id: ADTMagazineRifleAR12
